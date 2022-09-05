@@ -1,0 +1,10 @@
+/home/pastra/code/rbot/target/debug/deps/pasts-00812dca97b64127.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/exec.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/poll.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/util.rs
+
+/home/pastra/code/rbot/target/debug/deps/libpasts-00812dca97b64127.rlib: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/exec.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/poll.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/util.rs
+
+/home/pastra/code/rbot/target/debug/deps/pasts-00812dca97b64127.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/exec.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/poll.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/util.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/exec.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/poll.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/pasts-0.7.4/src/util.rs:

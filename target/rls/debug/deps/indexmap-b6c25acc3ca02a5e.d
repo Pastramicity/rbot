@@ -1,0 +1,13 @@
+/home/pastra/code/rbot/target/rls/debug/deps/indexmap-b6c25acc3ca02a5e.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/macros.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/equivalent.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/mutable_keys.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/util.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map/core.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map/core/raw.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/set.rs
+
+/home/pastra/code/rbot/target/rls/debug/deps/indexmap-b6c25acc3ca02a5e.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/macros.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/equivalent.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/mutable_keys.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/util.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map/core.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map/core/raw.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/set.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/macros.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/equivalent.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/mutable_keys.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/util.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map/core.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/map/core/raw.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.1/src/set.rs:

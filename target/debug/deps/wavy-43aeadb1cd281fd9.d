@@ -1,0 +1,14 @@
+/home/pastra/code/rbot/target/debug/deps/wavy-43aeadb1cd281fd9.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/ffi.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/asound.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/device_list.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/pcm.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/microphone.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/speakers.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/consts.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/microphone.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/speakers.rs
+
+/home/pastra/code/rbot/target/debug/deps/wavy-43aeadb1cd281fd9.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/ffi.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/asound.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/device_list.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/pcm.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/microphone.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/speakers.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/consts.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/microphone.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/speakers.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/ffi.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/asound.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/device_list.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/pcm.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/microphone.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/ffi/linux/speakers.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/consts.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/microphone.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/wavy-0.8.1/src/speakers.rs:

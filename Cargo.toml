@@ -1,0 +1,30 @@
+[workspace]
+members = ["sys", "bg"]
+
+[package]
+name = "rbot"
+description = "A rust digital assistant"
+edition = "2021"
+repository = "https://github.com/Pastramicity/rbot.git"
+version = "0.1.0"
+authors = ["pastra <pastra@tuta.io>"]
+
+[dependencies]
+dasp_interpolate = { version = "0.11", features = ["linear"] }
+dasp_signal = "0.11"
+deepspeech = "0.9"
+audrey = "0.3"
+libc = "0.2"
+deepspeech-sys = { version = "0.9", path = "sys", optional = true }
+libloading = { version = "0.7", optional = true }
+ears = "0.8.0"
+tts_rust = "0.3.3"
+
+
+[features]
+default = ["static_bindings"]
+dynamic = ["libloading"]
+static_bindings = ["deepspeech-sys"]
+
+[badges]
+maintenance = { status = "deprecated" }

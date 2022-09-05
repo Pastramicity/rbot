@@ -1,0 +1,11 @@
+/home/pastra/code/rbot/target/debug/deps/parking_lot_core-bf8dcdbab14e26d5.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/parking_lot.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/spinwait.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/thread_parker/mod.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/util.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/word_lock.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/thread_parker/linux.rs
+
+/home/pastra/code/rbot/target/debug/deps/parking_lot_core-bf8dcdbab14e26d5.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/parking_lot.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/spinwait.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/thread_parker/mod.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/util.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/word_lock.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/thread_parker/linux.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/parking_lot.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/spinwait.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/thread_parker/mod.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/util.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/word_lock.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.8.5/src/thread_parker/linux.rs:

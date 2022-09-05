@@ -1,0 +1,11 @@
+/home/pastra/code/rbot/target/debug/deps/symphonia_codec_vorbis-eabe280707af26e0.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/codebook.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/common.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/dsp.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/floor.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/residue.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/window.rs
+
+/home/pastra/code/rbot/target/debug/deps/symphonia_codec_vorbis-eabe280707af26e0.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/codebook.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/common.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/dsp.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/floor.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/residue.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/window.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/codebook.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/common.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/dsp.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/floor.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/residue.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-codec-vorbis-0.5.1/src/window.rs:

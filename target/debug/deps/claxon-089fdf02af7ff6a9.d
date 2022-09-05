@@ -1,0 +1,13 @@
+/home/pastra/code/rbot/target/debug/deps/claxon-089fdf02af7ff6a9.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/home/pastra/code/rbot/target/debug/deps/libclaxon-089fdf02af7ff6a9.rlib: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/home/pastra/code/rbot/target/debug/deps/claxon-089fdf02af7ff6a9.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/crc.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/error.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/frame.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/input.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/metadata.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/claxon-0.4.3/src/subframe.rs:

@@ -1,0 +1,11 @@
+/home/pastra/code/rbot/target/rls/debug/deps/symphonia_format_mkv-c608d12a4af16c17.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/codecs.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/demuxer.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/ebml.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/element_ids.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/lacing.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/segment.rs
+
+/home/pastra/code/rbot/target/rls/debug/deps/symphonia_format_mkv-c608d12a4af16c17.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/codecs.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/demuxer.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/ebml.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/element_ids.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/lacing.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/segment.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/codecs.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/demuxer.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/ebml.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/element_ids.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/lacing.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/symphonia-format-mkv-0.5.1/src/segment.rs:

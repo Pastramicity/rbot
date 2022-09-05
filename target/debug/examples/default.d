@@ -1,0 +1,1 @@
+/home/pastra/code/rbot/target/debug/examples/default: /home/pastra/code/rbot/examples/default.rs /home/pastra/code/rbot/src/lib.rs /home/pastra/code/rbot/sys/build.rs /home/pastra/code/rbot/sys/src/bindings.rs /home/pastra/code/rbot/sys/src/lib.rs

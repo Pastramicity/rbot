@@ -1,0 +1,13 @@
+/home/pastra/code/rbot/target/rls/debug/deps/lewton-e195b74454a4deb7.rmeta: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/home/pastra/code/rbot/target/rls/debug/deps/lewton-e195b74454a4deb7.d: /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs:
+/home/pastra/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs:
